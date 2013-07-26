@@ -1,0 +1,9 @@
+TODO:
+
+Unit test canvas functions.
+
+Unit test rasterization functions.
+
+Add more rasterization functions (triangle, circle, etc.).
+
+Use better rasterization algorithms.  The current ones are simple but slow.

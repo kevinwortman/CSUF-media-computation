@@ -5,7 +5,7 @@
 // C++ media computation functionality for the CS0 course taught at
 // California State University, Fullerton.
 //
-// See LICENSE.txt for copyright and license information.
+// See LICENSE for copyright and license information.
 //
 // Coding Conventions ////
 //

@@ -4,7 +4,7 @@
 //
 // See csufmedia.h for substantive comments.
 //
-// See LICENSE.txt for copyright and license information.
+// See LICENSE for copyright and license information.
 // 
 //////////////////////////////////////////////////////////////////////
 
